@@ -17,8 +17,8 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 ### Installation
 
 ```
-> git clone https://github.com/fibanez6/React-Redux-Blog.git
-> cd React-Redux-Blog
+> git clone https://github.com/fibanez6/react-redux-blog.git
+> cd react-redux-blog
 > npm install
 > npm start
 ```
